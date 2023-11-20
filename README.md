@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhoj Kamal Kunwar</h1>
-<h3 align="center">Passionate Full-Stack Developer | Laravel & PHP Expert | Frontend Wizard with Vue.js, React.js, and More | Committed to Excellence.</h3>
+<h1 align="center">Hi 👋, I'm Bhoj Kamal Kunwar, software engineer.</h1>
+<h3 align="left">Passionate Full-Stack Developer | Laravel & PHP Expert | Frontend Wizard with Vue.js, React.js, and More | Committed to Excellence.</h3>
 
 - 🔭 I’m currently working on **ERP**
 
