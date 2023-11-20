@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ERP**
 
-- 🤝 I’m looking for help with **in building modern ERP**
+- 🤝 I’m looking for help with **building modern ERP**
 
 - 👨‍💻 All of my projects are available at [https://lotussoft.com.np/portfolios](https://lotussoft.com.np/portfolios)
 
